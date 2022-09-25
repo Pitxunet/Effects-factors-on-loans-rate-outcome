@@ -1,10 +1,12 @@
-# PROSPER LOAN DATA
+# PROSPER LOAN DATA 
 ## by Estitxu Larralde Erasun
 
 
 ## Dataset
 
 The dataset includes 113 937 loans with 81 variables on each loan, including loan amount, borrower APR (annual interest rate), loan status and many more. 
+
+Dataset is too heavy for git-hub hosting. You can download it here if interested: https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv 
 
 There is a dictionnary of variables available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing).
 
